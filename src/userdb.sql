@@ -1,0 +1,1 @@
+create table users( account_id INT NOT NULL AUTO_INCREMENT, username VARCHAR(255) NOT NULL, adminuser BOOLEAN DEFAULT FALSE)

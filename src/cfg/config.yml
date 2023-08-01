@@ -1,0 +1,7 @@
+auth:
+  companies: M:\RepPal\Companies
+  netkey: M:\RepPal\cfg\.network.key
+  route: M:\RepPal\cfg
+personalisation:
+  darkmode: '0'
+  greeting: Hello!
